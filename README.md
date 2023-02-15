@@ -38,20 +38,20 @@ Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sckit-Learn, Imbalanced-Le
 
 ## Roadmap
 
-1)Literature Review
-2)CRISP-DM Methodology
+1. Literature Review
+2. CRISP-DM Methodology
  * Business Understanding
  * Data Understanding
  * Data Preparation
  * Modeling
  * Evaulation
  * Deployment ( We did not deploy this model but the next step would be this)
-3)Data Preprocessing
-4)Exloratory Data Analysis with Data Visualization
-5)Feature Selection
-6)Balancing the Data Set
-7)Modeling (Classification models which is Decision Trees, GBM, XGBM, LIGHT GBM and stacked with some combinations)
-8)Evaulation
+3. Data Preprocessing
+4. Exloratory Data Analysis with Data Visualization
+5. Feature Selection
+6. Balancing the Data Set
+7. Modeling (Classification models which is Decision Trees, GBM, XGBM, LIGHT GBM and stacked with some combinations)
+8. Evaulation
 
 ## Authors
 
