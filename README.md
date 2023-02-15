@@ -40,12 +40,12 @@ Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sckit-Learn, Imbalanced-Le
 
 1. Literature Review
 2. CRISP-DM Methodology
- * Business Understanding
- * Data Understanding
- * Data Preparation
- * Modeling
- * Evaulation
- * Deployment ( We did not deploy this model but the next step would be this)
+  * Business Understanding
+  * Data Understanding
+  * Data Preparation
+  * Modeling
+  * Evaulation
+  * Deployment ( We did not deploy this model but the next step would be this)
 3. Data Preprocessing
 4. Exloratory Data Analysis with Data Visualization
 5. Feature Selection
