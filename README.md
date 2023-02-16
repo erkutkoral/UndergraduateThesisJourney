@@ -19,7 +19,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/erkutkoral/UndergraduateThesisJourney/total) ![Contributors](https://img.shields.io/github/contributors/erkutkoral/UndergraduateThesisJourney?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/UndergraduateThesisJourney) ![License](https://img.shields.io/github/license/erkutkoral/UndergraduateThesisJourney) 
+![Contributors](https://img.shields.io/github/contributors/erkutkoral/UndergraduateThesisJourney?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/UndergraduateThesisJourney) 
 
 ## Table Of Contents
 
@@ -34,7 +34,7 @@ In my university years, I took Calculus, Probability, Statistics, Linear Algebra
 
 ## Used Techonologies/Libraries
 
-Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sckit-Learn, Imbalanced-Learn.
+Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn.
 
 ## Roadmap
 
