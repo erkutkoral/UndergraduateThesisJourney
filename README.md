@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Techonologies/Libraries](#built-with)
+* [Technologies-Libraries-Frameworks](#technologies-libraries-frameworks)
 * [Roadmap](#roadmap)
 * [Authors](#authors)
 
@@ -32,7 +32,7 @@
 
 In my university years, I took Calculus, Probability, Statistics, Linear Algebra, Operations Research, Algorithms, Heuristic Methods. These courses pushed me to work on data processing methods and this subject in my senior year. In that time, I learned Python, SQL, Data Visualization, EDA, Data Cleansing, Machine Learning and used that knowledge in 3 projects. First applied methods in the Telco Customer Churn Project, second Math Student's Grades Prediction and last applied all things I learned in my last version of undergraduate thesis which is ICU Admission Prediction for Covid19 Patients.
 
-## Used Techonologies/Libraries
+## Technologies-Libraries-Frameworks
 
 Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn.
 
