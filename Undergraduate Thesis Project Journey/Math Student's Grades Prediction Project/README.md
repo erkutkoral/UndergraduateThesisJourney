@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Techonologies/Libraries](#built-with)
+* [Technologies-Libraries-Frameworks](#technologies-libraries-frameworks)
 * [Authors](#authors)
 
 ## About The Project
@@ -45,7 +45,7 @@ Student Performance Data was obtained in a survey of students' math course in se
 * Health
 * Grades(Target Variable)
 
-## Used Techonologies/Libraries
+## Technologies-Libraries-Frameworks
 
 Python Libraries: Numpy, Pandas,Matplotlib, Seaborn Scikit-Learn
 Applied ML Models: 
