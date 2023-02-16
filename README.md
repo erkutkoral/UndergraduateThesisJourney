@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/erkutkoral/UndergraduateThesisJourney">
-    <img src="https://www.bibguru.com/guides/img/apa-undergraduate-thesis-citation-400x400.png" alt="Logo" width="80" height="80">
+    <img src="https://www.bibguru.com/guides/img/apa-undergraduate-thesis-citation-400x400.png" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Welcome to my Undergraduate Thesis Journey</h3>
