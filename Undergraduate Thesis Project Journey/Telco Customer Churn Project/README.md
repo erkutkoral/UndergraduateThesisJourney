@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Techonologies/Libraries](#built-with)
+* [Technologies-Libraries-Frameworks](#technologies-libraries-frameworks)
 * [Authors](#authors)
 
 ## About The Project
@@ -37,7 +37,7 @@ The data set includes information about:
 * Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 * Demographic info about customers – gender, age range, and if they have partners and dependents
 
-## Used Techonologies/Libraries
+## Technologies-Libraries-Frameworks
 
 Python Libraries: Numpy, Pandas, Sckit-Learn
 Applied ML Models: 
