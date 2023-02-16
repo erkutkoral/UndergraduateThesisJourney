@@ -19,7 +19,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/erkutkoral/UndergraduateThesisJourney?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/UndergraduateThesisJourney) ![License](https://img.shields.io/github/license/erkutkoral/UndergraduateThesisJourney) 
+![Contributors](https://img.shields.io/github/contributors/erkutkoral/UndergraduateThesisJourney?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/UndergraduateThesisJourney) 
 
 ## Table Of Contents
 
