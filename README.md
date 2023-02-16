@@ -55,4 +55,4 @@ Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sckit-Learn, Imbalanced-Le
 
 ## Authors
 
-* **Erkut Koral** - *Industrial Engineer Student* - [Erkut Koral](https://www.linkedin.com/in/erkutkoral/)
+* **Erkut Koral** - *Industrial Engineer Student* - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
